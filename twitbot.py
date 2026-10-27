@@ -2,8 +2,8 @@ import tweepy
 import webbrowser
 import time
 
-api_key="jZyFze427zvNEqIaL0GhAtzfZ"
-api_secret="y3ulE8rx7Ulq6AREuc8sWCuo2eAfsIpmiCYxZ5NkooK3UbNk14"
+api_key=""
+api_secret=""
 access_token="1438647874947006465-HBQAeDsWZPy6rdxFtnDwwqzo6q7xb4"
 access_secret="pItbvdLKFZa8s4Y3qOHZ5lm5i4s4wvParVG0UwLq8Cm8L"
 bearer_token="AAAAAAAAAAAAAAAAAAAAAIEKZwEAAAAA7Wsk%2BSJWU7Uzmml%2FuOToKlZbCBQ%3DCNmVZLABgKcw8Jio2uz0OSY77wgloWXGpTOGprX5k5xgAqQS2Q"
